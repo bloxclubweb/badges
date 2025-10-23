@@ -9,6 +9,15 @@
     "rarity": "Impossível"
   },
   {
+    "id": "discord_active_developer",
+    "url": "https://raw.githubusercontent.com/bloxclubweb/badges/refs/heads/main/icons/Discord_Active_Developer_Badge.svg.png",
+    "flag": "active_developer",
+    "description": "Precisa ter o emblema HypeSquad Balance House do discord",
+    "name": "HypeSquad Balance House Badge",
+    "released": 1761240060,
+    "rarity": "Comum"
+  },
+  {
     "id": "hypesquad_balance_house",
     "url": "https://raw.githubusercontent.com/bloxclubweb/badges/refs/heads/main/icons/Hypesquad_balance_badge.png",
     "flag": "hypesquad_balance",
