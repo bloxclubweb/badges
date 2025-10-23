@@ -1,0 +1,38 @@
+[
+  {
+    "id": "owner",
+    "url": "https://raw.githubusercontent.com/bloxclubweb/badges/refs/heads/main/icons/owner.png",
+    "role_check": ["1408975070637854841", "1408975297604485331"],
+    "description": "Precisa ser o dono do Servidor",
+    "name": "Owner Badge",
+    "released": 1761240060,
+    "rarity": "Impossível"
+  },
+  {
+    "id": "hypesquad_balance_house",
+    "url": "https://raw.githubusercontent.com/bloxclubweb/badges/refs/heads/main/icons/Hypesquad_balance_badge.png",
+    "flag": "hypesquad_balance",
+    "description": "Precisa ter o emblema HypeSquad Balance House do discord",
+    "name": "HypeSquad Balance House Badge",
+    "released": 1761240060,
+    "rarity": "Comum"
+  },
+  {
+    "id": "hypesquad_bravery_house",
+    "url": "https://raw.githubusercontent.com/bloxclubweb/badges/refs/heads/main/icons/Hypesquad_bravery_badge.png",
+    "flag": "hypesquad_bravery",
+    "description": "Precisa ter o emblema HypeSquad Bravery House do discord",
+    "name": "HypeSquad Bravery House Badge",
+    "released": 1761240060,
+    "rarity": "Comum"
+  },
+  {
+    "id": "hypesquad_brilliance_house",
+    "url": "https://raw.githubusercontent.com/bloxclubweb/badges/refs/heads/main/icons/Hypesquad_brilliance_badge.png",
+    "flag": "hypesquad_brilliance",
+    "description": "Precisa ter o emblema HypeSquad Brilliance House do discord",
+    "name": "HypeSquad Brilliance House Badge",
+    "released": 1761240060,
+    "rarity": "Comum"
+  }
+]
