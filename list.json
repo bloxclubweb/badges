@@ -43,5 +43,14 @@
     "name": "HypeSquad Brilliance House Badge",
     "released": 1761240060,
     "rarity": "Comum"
+  },
+  {
+    "id": "bot",
+    "url": "https://raw.githubusercontent.com/bloxclubweb/badges/refs/heads/main/icons/clyde_bot.png",
+    "role_check": ["1408974815351672962"],
+    "description": "Precisa ser o dono do Servidor",
+    "name": "Clyde Badge",
+    "released": 1761240060,
+    "rarity": "Impossível"
   }
 ]
